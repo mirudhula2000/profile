@@ -2,10 +2,7 @@
 - 👀 I’m interested in coding which has become my new obsession
 - 🌱 I’m currently learning (trying to learn... )  python
 - 📫 How to reach me ...mirudhulagiritharan@gmail.com
-- You can see some of my projects below:
-* https://github.com/mirudhula2000/Angular.git
-* https://github.com/mirudhula2000/Burgeria.git
-* https://github.com/mirudhula2000/swiper.git
+
 
 
 
